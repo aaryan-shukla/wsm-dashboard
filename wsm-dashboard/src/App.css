@@ -1,7 +1,16 @@
 .App {
-  text-align: center;
+  display: flex;
+  height: 100vh;
+}
+.sidebar {
+  flex: 0 0 20%; /* Make the sidebar take up 30% of the container width */
+  background-color: #3a3636; /* Add your desired background color */
+  /* You can add more styling for the sidebar here */
 }
 
+.main-content {
+  flex: 1;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
