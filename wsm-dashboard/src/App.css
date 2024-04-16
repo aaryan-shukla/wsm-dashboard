@@ -1,15 +1,19 @@
 .App {
   display: flex;
   height: 100vh;
+  overflow: hidden;
 }
 .sidebar {
   flex: 0 0 20%; /* Make the sidebar take up 30% of the container width */
   background-color: #3a3636; /* Add your desired background color */
   /* You can add more styling for the sidebar here */
+  height: 100%;
+  overflow-y: auto;
 }
 
 .main-content {
   flex: 1;
+  overflow-y: auto;
 }
 .App-logo {
   height: 40vmin;

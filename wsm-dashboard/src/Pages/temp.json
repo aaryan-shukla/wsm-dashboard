@@ -49,9 +49,9 @@
     "project": "Project Alpha",
     "total_period_generation": 4500,
     "total_generation": 68800,
-    "disp_to_facility": 32,
-    "disposal": 28,
-    "stock": 57,
+    "disp_to_facility": 2,
+    "disposal": 128,
+    "stock": 157,
     "date": "2024-08-01"
   },
   {
@@ -105,8 +105,8 @@
     "total_period_generation": 5000,
     "total_generation": 98800,
     "disp_to_facility": 42,
-    "disposal": 38,
-    "stock": 77,
+    "disposal": 318,
+    "stock": 747,
     "date": "2025-01-01"
   },
   {
@@ -127,8 +127,8 @@
     "total_period_generation": 5200,
     "total_generation": 112200,
     "disp_to_facility": 46,
-    "disposal": 42,
-    "stock": 85,
+    "disposal": 142,
+    "stock": 815,
     "date": "2025-03-01"
   },
   {
@@ -148,7 +148,7 @@
     "project": "Project Alpha",
     "total_period_generation": 5400,
     "total_generation": 126400,
-    "disp_to_facility": 50,
+    "disp_to_facility": 350,
     "disposal": 46,
     "stock": 93,
     "date": "2025-05-01"
@@ -183,7 +183,7 @@
     "total_generation": 149200,
     "disp_to_facility": 56,
     "disposal": 52,
-    "stock": 105,
+    "stock": 125,
     "date": "2025-08-01"
   },
   {
@@ -192,8 +192,8 @@
     "project": "Project Alpha",
     "total_period_generation": 5800,
     "total_generation": 157200,
-    "disp_to_facility": 58,
-    "disposal": 54,
+    "disp_to_facility": 158,
+    "disposal": 154,
     "stock": 109,
     "date": "2025-09-01"
   },
@@ -203,8 +203,8 @@
     "project": "Project Alpha",
     "total_period_generation": 5900,
     "total_generation": 165400,
-    "disp_to_facility": 60,
-    "disposal": 56,
+    "disp_to_facility": 100,
+    "disposal": 446,
     "stock": 113,
     "date": "2025-10-01"
   },
@@ -214,8 +214,8 @@
     "project": "Project Alpha",
     "total_period_generation": 6000,
     "total_generation": 173800,
-    "disp_to_facility": 62,
-    "disposal": 58,
+    "disp_to_facility": 162,
+    "disposal": 158,
     "stock": 117,
     "date": "2025-11-01"
   },
@@ -248,8 +248,8 @@
     "total_period_generation": 6300,
     "total_generation": 200200,
     "disp_to_facility": 68,
-    "disposal": 64,
-    "stock": 129,
+    "disposal": 264,
+    "stock": 144,
     "date": "2026-02-01"
   },
   {
@@ -259,7 +259,7 @@
     "total_period_generation": 6400,
     "total_generation": 209400,
     "disp_to_facility": 70,
-    "disposal": 66,
+    "disposal": 166,
     "stock": 133,
     "date": "2026-03-01"
   },
@@ -270,8 +270,8 @@
     "total_period_generation": 6500,
     "total_generation": 218800,
     "disp_to_facility": 72,
-    "disposal": 68,
-    "stock": 137,
+    "disposal": 38,
+    "stock": 121,
     "date": "2026-04-01"
   },
   {
@@ -291,9 +291,9 @@
     "project": "Project Alpha",
     "total_period_generation": 6700,
     "total_generation": 238200,
-    "disp_to_facility": 76,
+    "disp_to_facility": 34,
     "disposal": 72,
-    "stock": 145,
+    "stock": 224,
     "date": "2026-06-01"
   },
   {
@@ -302,7 +302,7 @@
     "project": "Project Alpha",
     "total_period_generation": 6800,
     "total_generation": 248200,
-    "disp_to_facility": 78,
+    "disp_to_facility": 28,
     "disposal": 74,
     "stock": 149,
     "date": "2026-07-01"
@@ -315,7 +315,7 @@
     "total_generation": 258400,
     "disp_to_facility": 80,
     "disposal": 76,
-    "stock": 153,
+    "stock": 133,
     "date": "2026-08-01"
   },
   {
@@ -324,7 +324,7 @@
     "project": "Project Alpha",
     "total_period_generation": 7000,
     "total_generation": 268800,
-    "disp_to_facility": 82,
+    "disp_to_facility": 12,
     "disposal": 78,
     "stock": 157,
     "date": "2026-09-01"
