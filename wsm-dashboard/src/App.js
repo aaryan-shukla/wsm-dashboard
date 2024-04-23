@@ -4,9 +4,6 @@ import SideBar from "./Component/SideBar/sideBar";
 function App() {
   return (
     <div className="App">
-      <div className="sidebar">
-        <SideBar />
-      </div>
       <div className="main-content">
         <DisplayDashboard />
       </div>
